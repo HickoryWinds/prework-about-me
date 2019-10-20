@@ -1,4 +1,5 @@
 ## About Me 
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+* Edited html template completed as part of pre-work for Case Western Reserve Coding Boot Camp
+* Technologies used HTML5 and CSS3.
+* README updated to reflect skills learned in Coding Boot Camp
